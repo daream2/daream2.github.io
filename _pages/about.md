@@ -26,6 +26,9 @@ Feel free to reach me if you are seeking any form of cooperation.
 
 
 # 📝 Publications
+``Preprint`` [Advancing DialNav through Automatic Embodied Dialog Augmentation](https://arxiv.org/abs/2606.19948)<br>
+Leekyeung Han, Sangwon Jung, **Hyunji Min**, Jinseong Jeong, Minyoung Kim, Paul Hongsuck Seo
+
 ``ACL 2026 findings`` [GOAT: A TRAINING FRAMEWORK FOR GOAL-ORIENTED AGENT WITH TOOLS](https://arxiv.org/abs/2510.12218) [![](https://img.shields.io/github/stars/KU-MIIL/GOAT?style=social&amp;label=Stars)](https://github.com/KU-MIIL/GOAT)<br>
 **Hyunji Min**, Sangwon Jung, Junyoung Sung, Dosung Lee, Leekyeung Han, Paul Hongsuck Seo
 
