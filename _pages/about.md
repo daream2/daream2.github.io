@@ -33,6 +33,10 @@ Feel free to reach me if you are seeking any form of cooperation.
 Leekyeung Han, **Hyunji Min**, Gyeom Hwangbo, Jonghyun Choi, Paul Hongsuck Seo
 
 
+# 🎓 Academic Service
+- Organizer, [Embodied Agent and Dialog (EAD) Workshop](https://ead-workshop.github.io/), ECCV 2026
+
+
 
 
 
